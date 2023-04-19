@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\Triugulnik\Triugulnik\bin\Debug\Triugulnik.exe.config
+D:\Програмиране\new tasks\Triugulnik\Triugulnik\bin\Debug\Triugulnik.exe
+D:\Програмиране\new tasks\Triugulnik\Triugulnik\bin\Debug\Triugulnik.pdb
+D:\Програмиране\new tasks\Triugulnik\Triugulnik\obj\Debug\Triugulnik.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\Triugulnik\Triugulnik\obj\Debug\Triugulnik.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\Triugulnik\Triugulnik\obj\Debug\Triugulnik.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\Triugulnik\Triugulnik\obj\Debug\Triugulnik.exe
+D:\Програмиране\new tasks\Triugulnik\Triugulnik\obj\Debug\Triugulnik.pdb
